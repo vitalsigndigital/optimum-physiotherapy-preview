@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://www.optimumphysiotherapy.ca/sitemap.xml
